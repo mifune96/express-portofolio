@@ -40,14 +40,14 @@ const data = {
         {
             title:          `Fabric Store Mobile`,
             description:    `FAbric Store Mobile merupakan aplikasi penjualan kain dan masih dalam tahap pengembangan`,
-            img:            `https://github.com/louisiaegerv/Project-Images/blob/master/breakout.png?raw=true`,
+            img:            `SC.PNG`,
             link:           `https://github.com/mifune96/FabricMobile/`,
             tags:           [
                 `Java`, `Android Dev` , `Restfull API`
             ]
         },
         {
-            title:          `UTICommunity`,
+            title:          `UTICommunty`,
             description:    `Simpel aplikasi chat dengan firebase`,
             img:            `https://github.com/louisiaegerv/Project-Images/blob/master/loutube-wide.png?raw=true`,
             link:           `https://github.com/mifune96/UTICommunity`,
