@@ -47,7 +47,7 @@ const data = {
             ]
         },
         {
-            title:          `UTICommunuty`,
+            title:          `UTICommunity`,
             description:    `Simpel aplikasi chat dengan firebase`,
             img:            `https://github.com/louisiaegerv/Project-Images/blob/master/loutube-wide.png?raw=true`,
             link:           `https://github.com/mifune96/UTICommunity`,
