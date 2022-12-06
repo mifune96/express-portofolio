@@ -42,7 +42,7 @@
     "range-parser": "^1.2.1",
     "proxy-addr": "^2.0.5",
     "safe-buffer": "^5.1.2",
-    "qs": "^6.7.0",
+    "qs": "^6.7.3",
     "raw-body": "^2.4.0",
     "send": "^0.17.1",
     "safer-buffer": "^2.1.2",
