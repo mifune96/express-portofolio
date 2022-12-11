@@ -20,7 +20,7 @@
     "escape-html": "^1.0.3",
     "array-flatten": "^1.1.1",
     "finalhandler": "^1.1.2",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "forwarded": "^0.1.2",
     "fresh": "^0.5.2",
     "http-errors": "^1.7.2",
